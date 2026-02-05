@@ -4,7 +4,25 @@
 
 
 ## Brief Introduction:
-U.S. Army Veteran | GIAC-certified | IT Enthusiast | Aspiring cybersecurity professional.
+U.S. Army Veteran | GIAC-certified | S.O.C. | Analyst 2 | Incident Response | Threat Hunting | Triage
+
+Welcome
+
+This GitHub serves as my cybersecurity portfolio.
+
+I’m Louis, a Cyber Security Analyst with experience across SOC operations, incident response, SIEM, EDR, and MDR environments. The repositories here showcase hands-on investigations, detection logic, automation scripts, and security tooling built to support real-world security operations.
+
+You’ll find:
+
+- SOC and Incident Response labs (triage, containment, reporting)
+
+- Log analysis and threat detection projects
+
+- Security automation using PowerShell, Bash, and Python
+
+- Notes and references aligned to GIAC, NIST, and MITRE ATT&CK
+
+The focus is on practical skills, clear documentation, and repeatable processes rather than theory. Everything here is designed to demonstrate how security work is actually performed in operational environments.
 
 ## Certifications:
 (GCIH)-Security Incident Handling & Hacker Exploits $~~~~~~~$ (GSEC)-Security Essentials  
@@ -14,13 +32,55 @@ U.S. Army Veteran | GIAC-certified | IT Enthusiast | Aspiring cybersecurity prof
 CompTIA-(A+)
 
 ## Currently Studying:
-pursuing a Bachelor’s degree in Cybersecurity from the SANS Institute. 
+I am currently enrolled in the Bachelor of Applied Cybersecurity (BACS) program at SANS Technology Institute and actively pursuing the GIAC Certified Incident Handler (GCIH) certification.
+
+In parallel, I am continuing to develop hands-on skills in the following areas to strengthen my effectiveness in security operations and incident response:
+
+- Advanced threat hunting and detection engineering
+
+- SIEM tuning, correlation rules, and alert quality improvement
+
+- Microsoft Defender XDR advanced investigations
+
+- Malware analysis fundamentals and behavioral analysis
+
+- MITRE ATT&CK mapping and adversary TTP analysis
+
+- Security automation using PowerShell and Python
+
+- Cloud and SaaS security fundamentals within Microsoft 365 environments
+
+This learning is applied directly through labs, documentation, and projects published in this repository. 
 
 ## Soft Skills:
-Skilled in communication, leadership, technical writting and problem-solving. 
+- Analytical thinking and structured problem solving
+
+- Clear written and verbal communication for technical and non-technical audiences
+
+- Attention to detail in investigations, documentation, and reporting
+
+- Incident ownership and accountability from detection through resolution
+
+- Ability to remain calm and methodical during active incidents
+
+- Strong time management and task prioritization in high-volume environments
+
+- Collaborative mindset across SOC, IT, and leadership teams
+
+- Adaptability in fast-paced and evolving threat landscapes
+
+- Critical thinking and evidence-based decision making
+
+- Continuous learning and self-driven skill development
 
 ## Goals:
-Eager to apply my skills in an entry-level cybersecurity role, committed to teamwork and organizational success.
+My long-term objective is to progress from Security Operations (SOC) into Digital Forensics and Incident Response (DFIR), and ultimately into Red Team operations.
+
+In the near term, my focus is on mastering detection, triage, and incident response within SOC environments, building strong fundamentals in log analysis, endpoint investigation, and threat actor behavior.
+
+As I advance, I aim to deepen my expertise in forensics, malware analysis, and adversary tradecraft, developing the investigative and analytical skills required for DFIR work. Long term, my goal is to apply this defensive experience offensively by transitioning into Red Team roles, using real-world attack techniques to strengthen organizational defenses.
+
+This progression reflects a commitment to understanding threats end-to-end—from detection and response to adversary simulation and prevention.
 
 ## Projects:
 <!--
