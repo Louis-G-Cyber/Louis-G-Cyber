@@ -82,6 +82,8 @@ As I advance, I aim to deepen my expertise in forensics, malware analysis, and a
 This progression reflects a commitment to understanding threats end-to-end—from detection and response to adversary simulation and prevention.
 
 ## Projects:
+
+Coming Soon...
 <!--
 **louismgallegos/louismgallegos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
