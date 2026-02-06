@@ -86,7 +86,7 @@ In the near term, my focus is on mastering detection, triage, and incident respo
 
 As I advance, I aim to deepen my expertise in forensics, malware analysis, and adversary tradecraft, developing the investigative and analytical skills required for DFIR work. Long term, my goal is to apply this defensive experience offensively by transitioning into Red Team roles, using real-world attack techniques to strengthen organizational defenses.
 
-This progression reflects a commitment to understanding threats end-to-end—from detection and response to adversary simulation and prevention.
+to understanding threats end-to-end from detection and response to adversary simulation and prevention.
 
 
 <!--
