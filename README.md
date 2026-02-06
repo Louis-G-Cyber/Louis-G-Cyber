@@ -1,9 +1,5 @@
-# Hello, I'm Louis.G   ### Certifications
+# Hello, I'm Louis.G [![CompTIA A+](https://img.shields.io/badge/CompTIA%20A%2B-CompTIA%20A%2B-blue?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org) [![GFACT](https://img.shields.io/badge/GFACT-GIAC%20Foundational%20Cyber%20Technologies-black?style=for-the-badge&logo=giac&logoColor=white)](https://www.giac.org/certifications/gfact) [![GISF](https://img.shields.io/badge/GISF-GIAC%20Information%20Security%20Fundamentals-black?style=for-the-badge&logo=giac&logoColor=white)](https://www.giac.org/certifications/gisf) [![GSEC](https://img.shields.io/badge/GSEC-GIAC%20Security%20Essentials-black?style=for-the-badge&logo=giac&logoColor=white)](https://www.giac.org/certifications/gsec)
 
-[![CompTIA+](https://img.shields.io/badge/CompTIA+-007ACC?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications)
-[![GFACT](https://img.shields.io/badge/GFACT-4B0082?style=for-the-badge&logo=generic&logoColor=white)](https://www.giac.org/certifications/gfact)
-[![GISF](https://img.shields.io/badge/GISF-008000?style=for-the-badge&logo=generic&logoColor=white)](https://www.giac.org/certifications/gisf)
-[![GSEC](https://img.shields.io/badge/GSEC-FF4500?style=for-the-badge&logo=generic&logoColor=white)](https://www.giac.org/certifications/gsec)
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0072b1?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-g-cyber) &nbsp;&nbsp;&nbsp;
 [![Medium](https://img.shields.io/badge/-Medium-12100E?&style=flat&logo=medium&logoColor=white)](https://medium.com/@thedailysocbrief) &nbsp;&nbsp;&nbsp;
