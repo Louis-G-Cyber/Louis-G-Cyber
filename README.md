@@ -1,4 +1,4 @@
-# Hello, I'm Louis.G ## Certifications [![CompTIA+ Badge](https://www.credly.com/embedded_badge/YOUR-COMPATIA-BADGE-ID)](https://www.credly.com/badges/YOUR-COMPATIA-BADGE-ID/public_url) [![GFACT Badge](https://www.credly.com/embedded_badge/YOUR-GFACT-BADGE-ID)](https://www.credly.com/badges/YOUR-GFACT-BADGE-ID/public_url) [![GISF Badge](https://www.credly.com/embedded_badge/YOUR-GISF-BADGE-ID)](https://www.credly.com/badges/YOUR-GISF-BADGE-ID/public_url) [![GSEC Badge](https://www.credly.com/embedded_badge/YOUR-GSEC-BADGE-ID)](https://www.credly.com/badges/YOUR-GSEC-BADGE-ID/public_url)
+# Hello, I'm Louis.G ## Certifications 
 
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0072b1?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-g-cyber) &nbsp;&nbsp;&nbsp;
