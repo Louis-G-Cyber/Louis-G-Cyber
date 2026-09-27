@@ -38,7 +38,7 @@ The focus is on practical skills, clear documentation, and repeatable processes 
 CompTIA-(A+)
 
 ## Currently Studying:
-I am currently enrolled in the Bachelor of Applied Cybersecurity (BACS) program at SANS Technology Institute and actively pursuing the GIAC Certified Incident Handler (GCIH) certification.
+I am currently enrolled in the Bachelor of Applied Cybersecurity (BACS) program at SANS Technology Institute and actively pursuing the GIAC Python Coder (GPYC) certification.
 
 In parallel, I am continuing to develop hands-on skills in the following areas to strengthen my effectiveness in security operations and incident response:
 
